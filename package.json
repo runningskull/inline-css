@@ -11,7 +11,7 @@
     "cheerio": "^0.19.0",
     "css-property": "^1.0.0",
     "css-rules": "^1.0.0",
-    "extract-css": "^1.0.0",
+    "extract-css": "git://github.com/runningskull/extract-css.git#master",
     "flatten": "0.0.1",
     "style-selector": "^1.0.0"
   },
